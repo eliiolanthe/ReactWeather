@@ -6,7 +6,7 @@ var Main = React.createClass({
   render: function(){
     return (
       <div style={{background: 'pink'}}>
-        <Nav></Nav>
+        <Nav />
         <h2>Main Component</h2>
         {this.props.children}
       </div>
