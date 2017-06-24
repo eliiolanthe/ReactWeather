@@ -15,7 +15,7 @@ var About = React.createClass({
 var About = (props) => {
   return (
     <div>
-      <h1 className="text-center">About Us</h1>
+      <h1 className="text-center page-title">About Us</h1>
       <p>Welcome to the about page. This is some cool text about this project. </p>
       <p>Here are some of the tool used:</p>
       <ul>

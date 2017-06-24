@@ -23,7 +23,7 @@ var Main = (props) => {
       <div className="row">
         <div
           className="columns medium-6 large-4 small-centered"
-          style={{paddingTop: '50px'}}
+          style={{color: '#1b6cad'}}
         >
           {props.children}
         </div>
